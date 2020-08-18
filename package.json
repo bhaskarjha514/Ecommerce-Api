@@ -1,0 +1,15 @@
+{
+  "name": "bassumart-api",
+  "version": "1.0.0",
+  "description": "creating api for BaasuMart App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Ecommerce-Api"
+  },
+  "author": "bhaskarjha514",
+  "license": "ISC"
+}
